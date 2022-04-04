@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Shukaaa
+- 👀 I’m interested in nothing
+- 🌱 I’m currently learning Python, HTML, CSS & Java
+- 💞️ I’m looking to collaborate on nothing cause im bad
