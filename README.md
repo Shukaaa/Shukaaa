@@ -11,3 +11,5 @@ Find more on my [website](http://shuka.rip)
 - learn more about go
 - get better with Kotlin
 - create an "spa document generator" that convert md files to a spa
+- trying to make a small unity game :)
+- Minecraft Plugin with Spigot
