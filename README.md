@@ -6,8 +6,7 @@ Find more on my [website](http://shuka.rip)
 🆃🅾🅳🅾🆂:
 - finish portfolio
 - create Dragon City auto-fighter with python and image recognition
-- scrape twitter with js/ts
-- build simple card game with ts + react & add clerk auth login & store player data in backend
+- build simple card game with java & and try to find a funny gamelib for java xd
 - learn more about go
 - get better with Kotlin
 - create an "spa document generator" that convert md files to a spa
