@@ -2,7 +2,7 @@
 - 🤓 Languages/FW That I'm currently learning: C#, Go, Svelte
 - 💫 Languages/FW I wanna learn in the future: C, Lua, Rust, Mojo
 
-Find more on my [website](http://shuka.rip)
+Find more on my 10/10 serious [website](http://shuka.rip)
 
 🆃🅾🅳🅾🆂:
 - ✅ (in progress :o) finish portfolio
