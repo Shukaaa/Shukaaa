@@ -5,7 +5,7 @@
 Find more on my 10/10 serious [website](http://shuka.rip)
 
 🆃🅾🅳🅾🆂:
-- ✅ (in progress :o) finish portfolio
+- ✅ finish portfolio
 - 🚧 (in progress :o) build simple card game with java & and try to find a funny gamelib for java xd
 - get better with Kotlin
 - trying to make a small unity game :)
