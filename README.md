@@ -1,8 +1,6 @@
 <h1 align="center">Hellooo! <img src="https://github.com/Shukaaa/Shukaaa/blob/main/assets/funny-cat.gif" width="28px" alt=""></h1>
 
-Hello, I'm Shukaaa (Lucas), a 18-year-old developer from Germany. I'm currently working on my portfolio and some other projects that I'm never going to finish... I'm currently at the end of my 3-year apprenticeship as an IT specialist for application development and will finish in summer (hopefully).
-
-Find more on my 10/10 serious [website](http://shuka.rip)
+Hello, I'm Shukaaa (Lucas), a 19-year-old developer from Germany. I'm currently working on my portfolio and some other projects that I'm never going to finish... I'm currently at the end of my 3-year apprenticeship as an IT specialist for application development and will finish in summer (hopefully).
 
 <h3 align="center">📙 Languages I work with</h3>
 
