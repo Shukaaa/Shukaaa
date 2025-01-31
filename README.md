@@ -1,6 +1,6 @@
 <h1 align="center">Hellooo! <img src="https://github.com/Shukaaa/Shukaaa/blob/main/assets/funny-cat.gif" width="28px" alt=""></h1>
 
-Hello, I'm Shukaaa (Lucas), a 19-year-old developer from Germany. I'm currently working on my portfolio and some other projects that I'm never going to finish... At Summer 2024, I completed my apprentice yay!!!
+Hello, I'm Shukaaa (Lucas), a 19-year-old developer from Germany. I'm currently working on my portfolio and some other projects that I'm never going to finish... At Summer 2024, I completed my apprenticeship yay!!!
 
 <h3 align="center">📙 Languages I work with</h3>
 
