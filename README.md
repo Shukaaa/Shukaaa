@@ -1,6 +1,6 @@
-<h1 align="center">Hellooo! <img src="https://github.com/Shukaaa/Shukaaa/blob/main/assets/funny-cat.gif" width="28px" alt=""></h1>
+<h1 align="center">Hi! <img src="https://github.com/Shukaaa/Shukaaa/blob/main/assets/funny-cat.gif" width="28px" alt=""></h1>
 
-Hello, I'm Shukaaa (Lucas), a 19-year-old developer from Germany. I'm currently working on my portfolio and some other projects that I'm never going to finish... At Summer 2024, I completed my apprenticeship yay!!!
+Hello, I'm Shukaaa (Lucas), a 19-year-old developer from Germany. I'm currently working on my portfolio and some other projects that I'm never going to finish... At Summer 2024, I completed my apprenticeship :o!!!
 
 <h3 align="center">📙 Languages I work with</h3>
 
@@ -33,10 +33,7 @@ Hello, I'm Shukaaa (Lucas), a 19-year-old developer from Germany. I'm currently 
 <h3 align="center">🧠 Languages I learn / want to learn in the future</h3>
 
 [![Go](https://img.shields.io/badge/go-%2324292e.svg?&style=for-the-badge&logo=go&logoColor=white)](https://github.com/Shukaaa)
-[![Rust](https://img.shields.io/badge/rust-%2324292e.svg?&style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Shukaaa)
 [![Lua](https://img.shields.io/badge/lua-%2324292e.svg?&style=for-the-badge&logo=lua&logoColor=white)](https://github.com/Shukaaa)
-[![C](https://img.shields.io/badge/c-%2324292e.svg?&style=for-the-badge&logo=c&logoColor=white)](https://github.com/Shukaaa)
-[![C#](https://img.shields.io/badge/csharp-%2324292e.svg?&style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/Shukaaa)
 
 <h3 align="center">📈 Stats</h3>
 
