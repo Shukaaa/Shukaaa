@@ -30,7 +30,7 @@ Hello, I'm Shukaaa (Lucas), a 19-year-old developer from Germany. I'm currently 
 [![Jira](https://img.shields.io/badge/jira-%2324292e.svg?&style=for-the-badge&logo=jira&logoColor=white)](https://github.com/Shukaaa)
 [![Grafana](https://img.shields.io/badge/grafana-%2324292e.svg?&style=for-the-badge&logo=grafana&logoColor=white)](https://github.com/Shukaaa)
 
-<h3 align="center">🧠 Languages I learn / want to learn in the future</h3>
+<h3 align="center">🧠 Languages I'm currently learning</h3>
 
 [![Go](https://img.shields.io/badge/go-%2324292e.svg?&style=for-the-badge&logo=go&logoColor=white)](https://github.com/Shukaaa)
 [![Lua](https://img.shields.io/badge/lua-%2324292e.svg?&style=for-the-badge&logo=lua&logoColor=white)](https://github.com/Shukaaa)
