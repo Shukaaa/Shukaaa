@@ -34,9 +34,3 @@ Hello, I'm Shukaaa (Lucas), a 20-year-old developer from Germany. I'm currently 
 
 [![Go](https://img.shields.io/badge/go-%2324292e.svg?&style=for-the-badge&logo=go&logoColor=white)](https://github.com/Shukaaa)
 [![Lua](https://img.shields.io/badge/lua-%2324292e.svg?&style=for-the-badge&logo=lua&logoColor=white)](https://github.com/Shukaaa)
-
-<h3 align="center">📈 Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shukaaa&show_icons=true&theme=dark&count_private=true" alt="Stats" />
-</p>
